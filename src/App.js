@@ -1,5 +1,6 @@
 import React from "react";
 import "./App.css";
+import nasaData from './components/nasadata';
 
 function App() {
   return (
